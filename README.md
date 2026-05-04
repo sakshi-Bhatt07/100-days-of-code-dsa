@@ -1,1 +1,2 @@
-# 100-days-of-code-dsa
+# DSA (100 Days)
+
